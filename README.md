@@ -1,5 +1,5 @@
 # Checkpoint-02---O-Caso-da-Vinheria-Agnello
-<img src="img/circuitoCompleto.png">
+<img src="circuitoCompleto.png">
 <p>Projeto desenvolvido como parte da atividade de Edge Computing e Computer Systems na <a href="">FIAP</a> ministrada pelo professor <a href="https://www.linkedin.com/in/fabio-cabrini?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAA4IttQBKDdr5cvPzUTzpVSkZFkQM-qKngk&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3B3UXPOnpXR6qTOU9g%2FnseBQ%3D%3D" target="_blank">Fábio Cabrini</a>.</p>
 <p>Este projeto consiste em um sistema de alarme desenvolvido no Tinkercad para monitorar a luminosidade do ambiente de uma vinheria. O objetivo é oferecer uma solução simples e eficaz para a vinheria (empresa fictícia) que deseja ampliar seu mercado através do serviço de delivery de vinhos.</p>
 <strong>Link do circuíto no Tinkercad: <a href="https://wokwi.com/projects/396235203544314881">Checkpoint 02 - O Caso da Vinheria Agnello</a></strong>
